@@ -1,7 +1,8 @@
 # Active listening
+
 ### What to Avoid
 
- - avoid direct attempt at changing the way our listener thinks
+- avoid direct attempt at changing the way our listener thinks
  - advice, encouragement, passing judgement (either criticizing or favorable) most of the time is not taken into account - it doesn't work, e.g. "the road to success in business is a long, difficult one, and you must be patient." won't make someone patient or "I’m sure everything will work out O.K." will not make a person, deeply distressed with a problem, believe it's OK
 
 ### What to Do
@@ -519,13 +520,10 @@ The side conversationalists. These are the two who have something to say to each
 
 The timid one. This person never contributes. Don't mistake his or her silence for agreement. Many times it comes from a lack of self-confidence or fear of embarrassment. Calling on the person may be all that is needed to elicit useful input. Office staff may need extra encouragement to speak up in meetings that involve physicians and nursing staff. If possible, ask the person questions he or she is uniquely suited to answer based on his or her knowledge or expertise. Reserved individuals often put a lot of thought into what they say and can make valuable contributions with some encouragement.
 
-
-
-
 # Process planning
 
 
-In [software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering"), a **software development process** is the process of dividing [software development](https://en.wikipedia.org/wiki/Software_development "Software development") work into distinct phases to improve [design](https://en.wikipedia.org/wiki/Software_design "Software design"), [product management](https://en.wikipedia.org/wiki/Software_product_management "Software product management"), and [project management](https://en.wikipedia.org/wiki/Software_project_management "Software project management"). It is also known as a **software development life cycle** (**SDLC**). The methodology may include the pre-definition of specific [deliverables](https://en.wikipedia.org/wiki/Deliverable "Deliverable") and artifacts that are created and completed by a project team to develop or maintain an application.[[1]](https://en.wikipedia.org/wiki/Software_development_process#cite_note-CMS08-1)
+In [software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering"), a **software development process** is the process of dividing [software development](https://en.wikipedia.org/wiki/Software_development "Software development") work into distinct phases to improve [design](https://en.wikipedia.org/wiki/Software_design "Software design"), [product management](https://en.wikipedia.org/wiki/Software_product_management "Software product management"), and [project management](https://en.wikipedia.org/wiki/Software_project_management "Software project management"). It is also known as a **software development life cycle** (**SDLC**). The methodology may include the pre-definition of specific [deliverables](https://en.wikipedia.org/wiki/Deliverable "Deliverable") and artifacts that are created and completed by a project team to develop or maintain an application.
 
 Most modern development processes can be vaguely described as [agile](https://en.wikipedia.org/wiki/Agile_software_development "Agile software development"). Other methodologies include [waterfall](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model"), [prototyping](https://en.wikipedia.org/wiki/Software_prototyping "Software prototyping"), [iterative and incremental development](https://en.wikipedia.org/wiki/Iterative_and_incremental_development "Iterative and incremental development"), [spiral development](https://en.wikipedia.org/wiki/Spiral_development "Spiral development"), [rapid application development](https://en.wikipedia.org/wiki/Rapid_application_development "Rapid application development"), and [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming "Extreme programming").
 
@@ -533,7 +531,9 @@ Most modern development processes can be vaguely described as [agile](https://en
 
 Main article: [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model")
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/220px-Waterfall_model.svg.png)](https://en.wikipedia.org/wiki/File:Waterfall_model.svg)
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/220px-Waterfall_model.svg.png)
+](https://en.wikipedia.org/wiki/File:Waterfall_model.svg)
 
 The activities of the software development process represented in the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model "Waterfall model"). There are several other models to represent this process.
 
@@ -547,9 +547,9 @@ The waterfall model is a sequential development approach, in which development i
 -   [Deployment](https://en.wikipedia.org/wiki/Software_deployment "Software deployment") (or [Installation](https://en.wikipedia.org/wiki/Installation_(computer_programs) "Installation (computer programs)"))
 -   [Maintenance](https://en.wikipedia.org/wiki/Software_maintenance "Software maintenance")
 
-The first formal description of the method is often cited as an article published by [Winston W. Royce](https://en.wikipedia.org/wiki/Winston_W._Royce "Winston W. Royce")[[7]](https://en.wikipedia.org/wiki/Software_development_process#cite_note-7) in 1970 although Royce did not use the term "waterfall" in this article. Royce presented this model as an example of a flawed, non-working model.[[8]](https://en.wikipedia.org/wiki/Software_development_process#cite_note-8)
+The first formal description of the method is often cited as an article published by [Winston W. Royce](https://en.wikipedia.org/wiki/Winston_W._Royce "Winston W. Royce") in 1970 although Royce did not use the term "waterfall" in this article. Royce presented this model as an example of a flawed, non-working model.
 
-The basic principles are:[[1]](https://en.wikipedia.org/wiki/Software_development_process#cite_note-CMS08-1)
+The basic principles are:
 
 -   Project is divided into sequential phases, with some overlap and splashback acceptable between phases.
 -   Emphasis is on planning, time schedules, target dates, budgets and implementation of an entire system at one time.
@@ -558,15 +558,15 @@ The basic principles are:[[1]](https://en.wikipedia.org/wiki/Software_developmen
 The waterfall model is a traditional engineering approach applied to software engineering. A strict waterfall approach discourages revisiting and revising any prior phase once it is complete. This "inflexibility" in a pure waterfall model has been a source of criticism by supporters of other more "flexible" models. It has been widely blamed for several large-scale government projects running over budget, over time and sometimes failing to deliver on requirements due to the [Big Design Up Front](https://en.wikipedia.org/wiki/Big_Design_Up_Front "Big Design Up Front") approach. Except when contractually required, the waterfall model has been largely superseded by more flexible and versatile methodologies developed specifically for software development. See [Criticism of Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model#Criticism "Waterfall model").
 
 # Agile software development
-**Agile software development** comprises various approaches to [software development](https://en.wikipedia.org/wiki/Software_development "Software development") under which requirements and solutions evolve through the collaborative effort of [self-organizing](https://en.wikipedia.org/wiki/Self-organizing_communities "Self-organizing communities") and [cross-functional](https://en.wikipedia.org/wiki/Cross-functional_team "Cross-functional team") teams and their [customer(s)](https://en.wikipedia.org/wiki/Customer "Customer")/[end user(s)](https://en.wikipedia.org/wiki/End_user "End user").[[1]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-Collier_2011-1) It advocates adaptive planning, evolutionary development, early delivery, and [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process "Continual improvement process"), and it encourages rapid and flexible response to change.[[2]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-WhatIsAgile-2)[_[further explanation needed](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify "Wikipedia:Please clarify")_]
+**Agile software development** comprises various approaches to [software development](https://en.wikipedia.org/wiki/Software_development "Software development") under which requirements and solutions evolve through the collaborative effort of [self-organizing](https://en.wikipedia.org/wiki/Self-organizing_communities "Self-organizing communities") and [cross-functional](https://en.wikipedia.org/wiki/Cross-functional_team "Cross-functional team") teams and their [customer(s)](https://en.wikipedia.org/wiki/Customer "Customer")/[end user(s)](https://en.wikipedia.org/wiki/End_user "End user"). It advocates adaptive planning, evolutionary development, early delivery, and [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process "Continual improvement process"), and it encourages rapid and flexible response to change. explanation needed](https://en.wikipedia.org/wiki/Wikipedia:Please_clarify "Wikipedia:Please clarify")_]
 
-The term _agile_ (sometimes written _Agile_)[[3]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-3) was popularized, in this context, by the _[Manifesto for Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto)_.[[4]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-AgileManifesto-4) The values and principles espoused in this manifesto were derived from and underpin a broad range of [software development frameworks](https://en.wikipedia.org/wiki/Software_development_process "Software development process"), including [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) "Scrum (software development)") and [Kanban](https://en.wikipedia.org/wiki/Kanban_(development) "Kanban (development)").[[5]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-5)[[6]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-LarmanGuide-6)
+The term _agile_ (sometimes written _Agile_) was popularized, in this context, by the _[Manifesto for Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto)_. The values and principles espoused in this manifesto were derived from and underpin a broad range of [software development frameworks](https://en.wikipedia.org/wiki/Software_development_process "Software development process"), including [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development) "Scrum (software development)") and [Kanban](https://en.wikipedia.org/wiki/Kanban_(development) "Kanban (development)").
 
-While there is much anecdotal evidence that adopting agile practices and values improves the agility of software professionals, teams and organizations, some empirical studies have disputed that evidence.[[7]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-7)[[8]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-8)
+While there is much anecdotal evidence that adopting agile practices and values improves the agility of software professionals, teams and organizations, some empirical studies have disputed that evidence.
 
 ### Agile software development values
 
-Based on their combined experience of developing software and helping others do that, the seventeen signatories to the manifesto proclaimed that they value:[[4]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-AgileManifesto-4)
+Based on their combined experience of developing software and helping others do that, the seventeen signatories to the manifesto proclaimed that they value:
 
 -   _**Individuals and Interactions** over processes and tools_
 -   _**Working Software** over comprehensive documentation_
@@ -605,7 +605,9 @@ Because of the short iteration style of agile software development, it also has 
 
 ## Agile software development methods
 
+
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SoftwareDevelopmentLifeCycle.jpg/220px-SoftwareDevelopmentLifeCycle.jpg)](https://en.wikipedia.org/wiki/File:SoftwareDevelopmentLifeCycle.jpg)
+
 
 Software development life-cycle support[[43]](https://en.wikipedia.org/wiki/Agile_software_development#cite_note-Abrahamsson2002-43)
 
@@ -895,13 +897,19 @@ Kanban is compatible with Scrum, the project management method. Adding WIP and v
 
 ## Scrumban Board
 
-## [![Scrumban board](http://agilealliance.org/wp-content/uploads/2015/10/scrumban-board.jpg)](http://agilealliance.org/wp-content/uploads/2015/10/scrumban-board.jpg)Kanban vs. Scrumban
+## 
+[![Scrumban board](http://agilealliance.org/wp-content/uploads/2015/10/scrumban-board.jpg)](http://agilealliance.org/wp-content/uploads/2015/10/scrumban-board.jpg)
+Kanban vs. Scrumban
+
 
 [![Kanban vs. Scrumban](http://agilealliance.org/wp-content/uploads/2015/10/kanban-vs-scrumban.jpg)](http://agilealliance.org/wp-content/uploads/2015/10/kanban-vs-scrumban.jpg)
 
+
 ## Scrum vs. Scrumban
 
+
 [![Scrum vs. Scrumban](http://agilealliance.org/wp-content/uploads/2015/10/scrum-vs-scrumban.jpg)](http://agilealliance.org/wp-content/uploads/2015/10/scrum-vs-scrumban.jpg)
+
 
 
 
@@ -1205,7 +1213,7 @@ Of course, efficiency is also a subjective measure. An operation is indisputably
 primitive if we can implement it only through access to the underlying representa-
 tion.
 ## Separation of concerns principle
-principle for separating a [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") into distinct sections such that each section addresses a separate [concern](https://en.wikipedia.org/wiki/Concern_(computer_science) "Concern (computer science)"). A concern is a set of information that affects the code of a computer program. A concern can be as general as "the details of the hardware for an application", or as specific as "the name of which class to instantiate". A program that embodies SoC well is called a [modular](https://en.wikipedia.org/wiki/Modularity_(programming) "Modularity (programming)")[[1]](https://en.wikipedia.org/wiki/Separation_of_concerns#cite_note-laplante-1) program. Modularity, and hence separation of concerns, is achieved by [encapsulating](https://en.wikipedia.org/wiki/Encapsulation_(computer_science) "Encapsulation (computer science)") information inside a section of code that has a well-defined interface. Encapsulation is a means of [information hiding](https://en.wikipedia.org/wiki/Information_hiding "Information hiding").[[2]](https://en.wikipedia.org/wiki/Separation_of_concerns#cite_note-mitchell-2) Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer).[[3]](https://en.wikipedia.org/wiki/Separation_of_concerns#cite_note-microsoft-3)
+principle for separating a [computer program](https://en.wikipedia.org/wiki/Computer_program "Computer program") into distinct sections such that each section addresses a separate [concern](https://en.wikipedia.org/wiki/Concern_(computer_science) "Concern (computer science)"). A concern is a set of information that affects the code of a computer program. A concern can be as general as "the details of the hardware for an application", or as specific as "the name of which class to instantiate". A program that embodies SoC well is called a [modular](https://en.wikipedia.org/wiki/Modularity_(programming) "Modularity (programming)") program. Modularity, and hence separation of concerns, is achieved by [encapsulating](https://en.wikipedia.org/wiki/Encapsulation_(computer_science) "Encapsulation (computer science)") information inside a section of code that has a well-defined interface. Encapsulation is a means of [information hiding](https://en.wikipedia.org/wiki/Information_hiding "Information hiding"). Layered designs in information systems are another embodiment of separation of concerns (e.g., presentation layer, business logic layer, data access layer, persistence layer).
 
 ## Types vs. Classes
 An object's  **class**  defines how the object is implemented .The class defines object's internal state and the implementation of its operations.
@@ -1222,31 +1230,41 @@ These patterns provide various object creation mechanisms, which increase flexib
 
 Creates an instance of several families of classes
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/abstract.gif)
+
 
 [Builder](https://www.dofactory.com/net/builder-design-pattern)
 
 Separates object construction from its representation
 Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/builder.gif)
+
 
 [Factory Method](https://www.dofactory.com/net/factory-method-design-pattern)
 
 Creates an instance of several derived classes
 Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/factory.gif)
+
 
 [Prototype](https://www.dofactory.com/net/prototype-design-pattern)
 
 A fully initialized instance to be copied or cloned
 Specify the kind of objects to create using a prototypical instance, and create new objects by copying this prototype.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/prototype.gif)
+
 
 [Singleton](https://www.dofactory.com/net/singleton-design-pattern)
 
 A class of which only a single instance can exist
 Ensure a class has only one instance and provide a global point of access to it.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/singleton.gif)
+
   
 
 ### Structural Patterns
@@ -1257,44 +1275,58 @@ These patterns explain how to assemble objects and classes into larger structure
 
 Match interfaces of different classes
 Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/adapter.gif)
+
 
 [Bridge](https://www.dofactory.com/net/bridge-design-pattern)
 
 Separates an object’s interface from its implementation
 Decouple an abstraction from its implementation so that the two can vary independently.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/bridge.gif)
+
 
 [Composite](https://www.dofactory.com/net/composite-design-pattern)
 
 A tree structure of simple and composite objects
 Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/composite.gif)
+
 
 [Decorator](https://www.dofactory.com/net/decorator-design-pattern)
 
 Add responsibilities to objects dynamically
 Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/decorator.gif)
+
 
 [Facade](https://www.dofactory.com/net/facade-design-pattern)
 
 A single class that represents an entire subsystem
 Provide a unified interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use.
 
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/facade.gif)
+
 
 [Flyweight](https://www.dofactory.com/net/flyweight-design-pattern)
 
 A fine-grained instance used for efficient sharing
 Use sharing to support large numbers of fine-grained objects efficiently.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/flyweight.gif)
+
 
 [Proxy](https://www.dofactory.com/net/proxy-design-pattern)
 
 An object representing another object
 Provide a surrogate or placeholder for another object to control access to it.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/proxy.gif)
+
   
 
 ### Behavioral Patterns
@@ -1305,43 +1337,57 @@ These patterns are concerned with algorithms and the assignment of responsibilit
 A way of passing a request between a chain of objects
 Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.
 
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/chain.gif)
+
 
 [Command](https://www.dofactory.com/net/command-design-pattern)
 
 Encapsulate a command request as an object
 Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/command.gif)
+
 
 [Interpreter](https://www.dofactory.com/net/interpreter-design-pattern)
 
 A way to include language elements in a program
 Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/interpreter.gif)
+
 
 [Iterator](https://www.dofactory.com/net/iterator-design-pattern)
 
 Sequentially access the elements of a collection
 Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/iterator.gif)
+
 
 [Mediator](https://www.dofactory.com/net/mediator-design-pattern)
 
 Defines simplified communication between classes
 Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/mediator.gif)
+
 
 [Memento](https://www.dofactory.com/net/memento-design-pattern)
 
 Capture and restore an object's internal state
 Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/memento.gif)
+
 
 [Observer](https://www.dofactory.com/net/observer-design-pattern)
 
 A way of notifying change to a number of classes
 Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/observer.gif)
+
 -   **Subject** **(Stock)**
     -   knows its observers. Any number of Observer objects may observe a subject
     -   provides an interface for attaching and detaching Observer objects.
@@ -1359,33 +1405,45 @@ Define a one-to-many dependency between objects so that when one object changes 
 
 Alter an object's behavior when its state changes
 Allow an object to alter its behavior when its internal state changes. The object will appear to change its class.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/state.gif)
+
 
 [Strategy](https://www.dofactory.com/net/strategy-design-pattern)
 
 Encapsulates an algorithm inside a class
 Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/strategy.gif)
+
 
 [Template Method](https://www.dofactory.com/net/template-method-design-pattern)
 
 Defer the exact steps of an algorithm to a subclass
 Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/template.gif)
+
 
 [Visitor](https://www.dofactory.com/net/visitor-design-pattern)
 
 Defines a new operation to a class without change
 Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
+
 ![enter image description here](https://www.dofactory.com/images/diagrams/net/visitor.gif)
+
 
 ### Repository
 A Repository mediates between the domain and data mapping layers, acting like an in-memory domain object collection. Client objects construct query specifications declaratively and submit them to Repository for satisfaction. Objects can be added to and removed from the Repository, as they can from a simple collection of objects, and the mapping code encapsulated by the Repository will carry out the appropriate operations behind the scenes. Conceptually, a Repository encapsulates the set of objects persisted in a data store and the operations performed over them, providing a more object-oriented view of the persistence layer. Repository also supports the objective of achieving a clean separation and one-way dependency between the domain and data mapping layers.
+
 ![enter image description here](https://martinfowler.com/eaaCatalog/repositorySketch.gif)
+
 ### Service locator pattern
 The service locator pattern is a design pattern used in software development to encapsulate the processes involved in obtaining a service with a strong abstraction layer. This pattern uses a central registry known as the “service locator” which on request returns the information necessary to perform a certain task.  
 The ServiceLocator is responsible for returning instances of services when they are requested for by the service consumers or the service clients.
+
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/dPattern.jpg)
+
 +simplifies component-based systems (alternative to DI)
 -obscures dependencies
 
@@ -1394,15 +1452,21 @@ Unit of Work is referred to as a single transaction that involves multiple opera
 
 ### Rules pattern ?
 The Rules Pattern works by separating out the rules from the rules processing logic (applying the [Single Responsibility Principle](http://en.wikipedia.org/wiki/Single_responsibility_principle)). This makes it easy to add new rules without changing the rest of the system
+
 ![enter image description here](https://www.michael-whelan.net/images/rules-pattern.png)
+
 With the Rules Pattern there is an Evaluator class that loops through a collection of rules and executes them. It evaluates the result and decides what action to take. In the simplest case it just executes all the rules, but it is also possible to add some selection logic to each rule that allows the Evaluator class to decide whether or not to run the rule (such as the IsMatch() method on the IRule interface above).
 ### Specification pattern
 the **specification pattern** is a particular [software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern "Software design pattern"), whereby [business rules](https://en.wikipedia.org/wiki/Business_rules "Business rules") can be recombined by chaining the business rules together using boolean logic. The pattern is frequently used in the context of [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design).
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/8/8b/Specification_UML_v2.png)
+
 
 ### Event aggregator
 Channel events from multiple objects into a single object to simplify registration for clients.
+
 ![enter image description here](https://martinfowler.com/eaaDev/eventAggregator/objects.gif)
+
 In its simplest form you have it register with all the source objects you are interested in, and have all target objects register with the  Event Aggregator. The  Event Aggregator  responds to any event from a source object by propagating that event to the target objects.
 
 The simplest  Event Aggregator  aggregates events from multiple objects into itself, passing that same event onto its observers.
@@ -1433,8 +1497,10 @@ Normally, the view implementation  [instantiates](https://en.wikipedia.org/wiki/
 ### MVVM
 **Model–view–viewmodel**  (**MVVM**) is a software  [architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern "Architectural pattern").
 
-MVVM facilitates a  [separation](https://en.wikipedia.org/wiki/Separation_of_concerns "Separation of concerns")  of development of the  [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface "Graphical user interface")  – be it via a  [markup language](https://en.wikipedia.org/wiki/Markup_language "Markup language")  or GUI code – from development of the  [business logic](https://en.wikipedia.org/wiki/Business_logic "Business logic")  or  [back-end](https://en.wikipedia.org/wiki/Front_and_back_ends "Front and back ends")  logic (the  _data model_). The  _view model_  of MVVM is a value converter,[[1]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel#cite_note-MVVM-eliminates-valueconverters-1)  meaning the view model is responsible for exposing (converting) the  [data objects](https://en.wikipedia.org/wiki/Data_object "Data object")  from the model in such a way that objects are easily managed and presented. In this respect, the view model is more model than view, and handles most if not all of the view's display logic.[[1]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel#cite_note-MVVM-eliminates-valueconverters-1)  The view model may implement a  [mediator pattern](https://en.wikipedia.org/wiki/Mediator_pattern "Mediator pattern"), organizing access to the back-end logic around the set of  [use cases](https://en.wikipedia.org/wiki/Use_case "Use case")  supported by the view.
+MVVM facilitates a  [separation](https://en.wikipedia.org/wiki/Separation_of_concerns "Separation of concerns")  of development of the  [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface "Graphical user interface")  – be it via a  [markup language](https://en.wikipedia.org/wiki/Markup_language "Markup language")  or GUI code – from development of the  [business logic](https://en.wikipedia.org/wiki/Business_logic "Business logic")  or  [back-end](https://en.wikipedia.org/wiki/Front_and_back_ends "Front and back ends")  logic (the  _data model_). The  _view model_  of MVVM is a value converter,  meaning the view model is responsible for exposing (converting) the  [data objects](https://en.wikipedia.org/wiki/Data_object "Data object")  from the model in such a way that objects are easily managed and presented. In this respect, the view model is more model than view, and handles most if not all of the view's display logic.  The view model may implement a  [mediator pattern](https://en.wikipedia.org/wiki/Mediator_pattern "Mediator pattern"), organizing access to the back-end logic around the set of  [use cases](https://en.wikipedia.org/wiki/Use_case "Use case")  supported by the view.
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/8/87/MVVMPattern.png)
+
 
 Model
 
@@ -1442,25 +1508,31 @@ _Model_  refers either to a  [domain model](https://en.wikipedia.org/wiki/Domain
 
 View
 
-As in the  [model-view-controller](https://en.wikipedia.org/wiki/Model-view-controller "Model-view-controller")  (MVC) and  [model-view-presenter](https://en.wikipedia.org/wiki/Model-view-presenter "Model-view-presenter")  (MVP) patterns, the  _view_  is the structure, layout, and appearance of what a user sees on the screen.[[6]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel#cite_note-MSDN-6)  It displays a representation of the model and receives the user's interaction with the view (clicks, keyboard, gestures, etc.), and it forwards the handling of these to the view model via the  [data binding](https://en.wikipedia.org/wiki/Data_binding "Data binding")  (properties, event callbacks, etc.) that is defined to link the view and view model.
+As in the  [model-view-controller](https://en.wikipedia.org/wiki/Model-view-controller "Model-view-controller")  (MVC) and  [model-view-presenter](https://en.wikipedia.org/wiki/Model-view-presenter "Model-view-presenter")  (MVP) patterns, the  _view_  is the structure, layout, and appearance of what a user sees on the screen.  It displays a representation of the model and receives the user's interaction with the view (clicks, keyboard, gestures, etc.), and it forwards the handling of these to the view model via the  [data binding](https://en.wikipedia.org/wiki/Data_binding "Data binding")  (properties, event callbacks, etc.) that is defined to link the view and view model.
 
 View model
 
-The  _view model_  is an abstraction of the view exposing public properties and commands. Instead of the controller of the MVC pattern, or the presenter of the MVP pattern, MVVM has a  _binder_, which automates communication between the view and its bound properties in the view model. The view model has been described as a state of the data in the model.[[7]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel#cite_note-7)
+The  _view model_  is an abstraction of the view exposing public properties and commands. Instead of the controller of the MVC pattern, or the presenter of the MVP pattern, MVVM has a  _binder_, which automates communication between the view and its bound properties in the view model. The view model has been described as a state of the data in the model.
 
-The main difference between the view model and the Presenter in the MVP pattern, is that the presenter has a reference to a view whereas the view model does not. Instead, a view directly binds to properties on the view model to send and receive updates. To function efficiently, this requires a binding technology or generating  [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code "Boilerplate code")  to do the binding.[[6]](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel#cite_note-MSDN-6)
+The main difference between the view model and the Presenter in the MVP pattern, is that the presenter has a reference to a view whereas the view model does not. Instead, a view directly binds to properties on the view model to send and receive updates. To function efficiently, this requires a binding technology or generating  [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code "Boilerplate code")  to do the binding.
 
 ### Null object pattern
 The Null object pattern is a design pattern that simplifies the use of dependencies that can be undefined. This is achieved by using instances of a concrete class that implements a known interface, instead of null references.  
 We create an abstract class specifying various operations to be done, concrete classes extending this class and a null object class providing do nothing implementation of this class and will be used seamlessly where we need to check null value.
+
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/NullObject.png)
+
 
 ## Architectural software patterns
 ### Layered architecture
 n-tier, where each layer is grouped by a specific role and responsibility within the application
+
 ![enter image description here](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0101.png)
+
 One of the powerful features of the layered architecture pattern is the _separation of concerns_ among components. Components within a specific layer deal only with logic that pertains to that layer.
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0103.png)
+
 A layer is closed if a request cannot jump over it to a lower layer.
 
 be wary of _architecture sinkhole anti-pattern_ - when most of the requests are just data retrieval without any modification, but still have to pass through all the layers
@@ -1483,12 +1555,16 @@ Architecture components:
 - event mediator - receives the initial event and orchestrates that event by sending additional asynchronous events to _event channels_
 - event channels - execute each step of the process
 - event processors - listen on the event channels, receive the event from the event mediator and execute specific business logic to process the event.
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0201.png)
+
 
 2 types of events:
 - initial event - original event received by the mediator
 - processing event - are generated by the mediator and received by the event-processing components.
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0202.png)
+
 
 #### Broker topology
 - there is no central event mediator; rather, the message flow is distributed across the event processor components in a chain-like fashion through a lightweight message broker
@@ -1496,8 +1572,12 @@ Architecture components:
 Architecture components:
 - _broker_ - can be centralized or federated and contains all of the event channels that are used within the event flow. The event channels contained within the broker component can be message queues, message topics, or a combination of both.
 - _event processor_
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0203.png)
+
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0204.png)
+
 
 you must address various distributed architecture issues, such as remote process availability, lack of responsiveness, and broker reconnection logic in the event of a broker or mediator failure.
 lack of atomic transactions for a single business process.
@@ -1515,7 +1595,9 @@ lack of atomic transactions for a single business process.
 Architecture components:
 - _core system_ -traditionally contains only the minimal functionality required to make the system operational.
 - _plug-in modules_ - stand-alone, independent components that contain specialized processing, additional features, and custom code that is meant to enhance or extend the core system to produce additional business capabilities (can depend on other plug-ins, but is not recommended)
-Application logic is divided between independent plug-in modules and the basic core system, providing extensibility, flexibility, and isolation of application features and custom processing logic.![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0301.png)
+Application logic is divided between independent plug-in modules and the basic core system, providing extensibility, flexibility, and isolation of application features and custom processing logic.
+![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0301.png)
+
 The core system needs to know about which plug-in modules are available and how to get to them - registry
 
 - it can be embedded or used as part of another architecture pattern
@@ -1530,7 +1612,9 @@ The core system needs to know about which plug-in modules are available and how 
 ### Microservices
 _separately deployed units_ - each component of the microservices architecture is deployed as a separate unit, allowing for easier deployment through an effective and streamlined delivery pipeline, increased scalability, and a high degree of application and component decoupling within your application.
 _service component_ - contain one or more modules (e.g., Java classes) that represent either a single-purpose function (e.g., providing the weather for a specific city or town) or an independent portion of a large business application (e.g., stock trade placement or determining auto-insurance rates). Designing the right level of service component granularity is one of the biggest challenges within a microservices architecture.
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0401.png)
+
 
 _distributed_ architecture - all the components within the architecture are fully decoupled from one other and accessed through some sort of remote access protocol (e.g., JMS, AMQP, REST, SOAP, RMI, etc.). The distributed nature of this architecture pattern is how it achieves some of its superior scalability and deployment characteristics.
 #### Topologies
@@ -1538,13 +1622,17 @@ _distributed_ architecture - all the components within the architecture are full
 - useful for websites that expose small, self-contained individual services through some sort of API
 - consists of very fine-grained service components (hence the name _microservices_) that contain one or two modules that perform specific business functions independent from the rest of the services
 - these fine-grained service components are typically accessed using a REST-based interface implemented through a separately deployed web-based API layer
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0402.png)
+
 ##### _application REST-based_ topology
 - client requests are received through traditional web-based or fat-client business application screens rather than through a simple API layer
 - the user-interface layer of the application is deployed as a separate web application that remotely accesses separately deployed service components (business functionality) through simple REST-based interfaces
 - difference from REST API based topology: service components tend to be larger, more coarse-grained, and represent a small portion of the overall business application rather than fine-grained, single-action services
 - common for small to medium-sized business applications that have a relatively low degree of complexity.
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0403.png)
+
 
 ##### _centralized messaging_ topology
 - instead of using REST for remote access, this topology uses a lightweight centralized message broker (e.g., ActiveMQ, HornetQ, etc.)
@@ -1552,7 +1640,9 @@ _distributed_ architecture - all the components within the architecture are full
 - typically found in larger business applications or applications requiring more sophisticated control over the transport layer between the user interface and the service components
 - benefits over the REST-based topology: advanced queuing mechanisms, asynchronous messaging, monitoring, error handling, and better overall load balancing and scalability
 - The single point of failure and architectural bottleneck issues usually associated with a centralized broker are addressed through broker clustering and broker federation (splitting a single broker instance into multiple broker instances to divide the message throughput load based on functional areas of the system).
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_0404.png)
+
 
 #### Considerations
 - find the grain of your service components: too fine-grained will lead to a lot of inter-service requests, too coarse-grained will lead to worse deployments and testability (some apps can have shared db between some microservices to reduce requests, or can duplicate some of the functionality between service components in order to make them less coupled)
@@ -1566,7 +1656,9 @@ _distributed_ architecture - all the components within the architecture are full
 **Scalability**-high-application is split into separately deployed units, each service component can be individually scaled, allowing for fine-tuned scaling of the application
 **Ease of  development**-high - Because functionality is isolated into separate and distinct service components, development becomes easier due to the smaller and isolated scope. There is much less chance a developer will make a change in one service component that would affect other service components, thereby reducing the coordination needed among developers or development teams.
 ### Architectures rating
+
 ![enter image description here](https://learning.oreilly.com/library/view/software-architecture-patterns/9781491971437/assets/sapr_aa01.png)
+
 
 ## Inversion of Control Containers and the Dependency Injection pattern
 **IoC**  is a generic term meaning rather than having the application call the methods in a framework, the framework calls implementations provided by the application.
@@ -1581,7 +1673,9 @@ _distributed_ architecture - all the components within the architecture are full
 
 Inversion of Control (also known as the Hollywood Principle - "Don't call us, we'll call you") - rather than you calling some code of a library (code which you call and get a result), the framework (code, where you plug in your own behavior or code and it calls it for you) calls your code (via events, delegates etc.). Not to be confused with IoC Containers!
 The basic idea of the Dependency Injection is to have a separate object, an assembler, that populates a field in the lister class with an appropriate implementation for the finder interface
+
 ![enter image description here](https://martinfowler.com/articles/injection/injector.gif)
+
 Forms of DI:
 - Constructor Injection - provide dependencies in constructor of the dependent object
 - Setter Injection - via properties (setters)
@@ -1623,7 +1717,9 @@ Cons:
 	- not just technical complexity without business domain complexity
 	- not just CRUD or data-driven apps
  - team or company buy in to DDD
+
 ![enter image description here](https://vladikk.com/images/ddd/ddd-patterns.png)
+
 
 **Sub-domain**
   Some parts of the model add complexity without capturing or communicating specialized knowledge. They make the core domain more complex, but are necessary to the system and the full expression of the model.
@@ -1794,7 +1890,9 @@ One-to-many relationships are probably the most common type. An invoice includes
 many-to-many relationships are also not unusual and examples abound. Customers buy many products, and products are bought by many customers. Teachers teach many students, and students are taught by many teachers. Many-to-many relationships can't be directly implemented in the relational model, but their indirect implementation is quite straightforward
 **ER notation**
 E/R diagrams use rectangles to describe entities, ellipses for attributes, and diamonds to represent relationships
+
 ![enter image description here](https://static.javatpoint.com/dbms/images/dbms-notation-of-er-diagram.png)
+
 # **normalization**
 ## Lossless Decomposition
 The process of obtaining a fully normalized data model involves removing redundancy by dividing relations in such a way that the resultant relations can be recombined without losing any of the information. This is the principle of _lossless decomposition_.
@@ -1811,17 +1909,23 @@ If {X} is a candidate key, then all attributes {Y} must necessarily be functiona
 ## First Normal Form
 A relation is in first normal form if the domains on which its attributes are defined are scalar. This is at once both the simplest and most difficult concept in data modeling. The principle is straightforward: each attribute of a tuple must contain a single value.
 Whether the attribute is scalar with a complex data structure is defined by the semantics - if your system uses the attribute as a single value then it's scalar, otherwise it's not.
+
 ![enter image description here](http://www.gitta.info/LogicModelin/en/image/1NF.gif)
+
 ## Second Normal Form 
 A relation is in second normal form if it is in first normal form and in addition all its attributes are dependent on the entire candidate key.
 Here we have {IdSt, IdProf} key, but LastName of student is dependent only on IdSt and Prof on IdProf.
+
 ![enter image description here](http://www.gitta.info/LogicModelin/en/image/2NF.gif)
+
 
 ## Third Normal Form
 A relation is in third normal form if it is in second normal form and in addition all nonkey attributes are mutually independent.
 = no transitive dependencies
 Here Bank is dependent on Bank_Code_No, which is dependent on the primary key.
+
 ![enter image description here](http://www.gitta.info/LogicModelin/en/image/3NF.gif)
+
 ## Boyce/Codd Normal Form
 Boyce/Codd normal form, which is considered a variation of third normal form, handles the special case of relations with multiple candidate keys. In fact, for Boyce/Codd normal form to apply, the following conditions must hold true:
 -   The relation must have two or more candidate keys.
@@ -2023,7 +2127,9 @@ transaction integrity constraints control the way data is manipulated either wit
 # Modeling (UML, ER, data flow)
 
 # UML
+
 ![enter image description here](https://www.uml-diagrams.org/uml-25-diagrams.png)
+
 ## **Official Diagram Types of the UML**
 
 | **Diagram** | **Purpose** | **Lineage** |
@@ -2044,7 +2150,9 @@ transaction integrity constraints control the way data is manipulated either wit
 
 ## Class diagram
 A class diagram describes the types of objects in the system and the various kinds of static relationships that exist among them. Class diagrams also show the properties and operations of a class and the constraints that apply to the way objects are connected. The UML uses the term feature as a general term that covers properties and operations of a class.
+
 ![enter image description here](https://i.pinimg.com/originals/e4/18/fe/e418fe80c2b2a082d8f0ab89009de71c.png)
+
 ### Properties
 Properties  represent structural features of a class. As a first approximation, you can think of properties as corresponding to fields in a class. Properties are a single concept, but they appear in two quite distinct notations: attributes and associations.
 #### Attributes
@@ -2061,9 +2169,13 @@ Only the  name  is necessary.
 -   The  {property-string}  allows you to indicate additional properties for the attribute. In the example, I used  {readOnly}  to indicate that clients may not modify the property. If this is missing, you can usually assume that the attribute is modifiable.
 #### Associations
 The other way to notate a property is as an association. Much of the same information that you can show on an attribute appears on an association.
+
 ![enter image description here](https://i.ibb.co/6v7NV4M/03fig02.gif)
+
 is the same as
+
 ![enter image description here](https://i.ibb.co/mD7ZW5L/03fig03.gif)
+
 An  association  is a solid line between two classes, directed from the source class to the target class. The name of the property goes at the target end of the association, together with its multiplicity. The target end of the association links to the class that is the type of the property.
 
 Although most of the same information appears in both notations, some items are different. In particular, associations can show multiplicities at both ends of the line.
@@ -2082,7 +2194,9 @@ The  multiplicity  of a property is an indication of how many objects may fill t
     
 -   Multivalued  implies an upper bound of more than 1: usually *.
 ### Bidirectional Associations
+
 ![enter image description here](https://i.ibb.co/9H6zLZL/03fig04.gif)
+
 A bidirectional association is a pair of properties that are linked together as inverses. The Car class has property owner:Person[1], and the Person class has a property cars:Car[*].
 ### Operations
 
@@ -2122,12 +2236,18 @@ An example operation on account might be:
 ### Notes and Comments
 
 Notes are comments in the diagrams. Notes can stand on their own, or they can be linked with a dashed line to the elements they are commenting
+
+
 ![enter image description here](https://i.ibb.co/BLCLPGy/03fig06.gif)
+
+
 
 ### Dependency
 
 A  dependency  exists between two elements if changes to the definition of one element (the  supplier) may cause changes to the other (the  client). With classes, dependencies exist for various reasons: One class sends a message to another; one class has another as part of its data; one class mentions another as a parameter to an operation. If a class changes its interface, any message sent to that class may no longer be valid.
+
 ![enter image description here](https://i.ibb.co/L6YLdyV/03fig07.gif)
+
 To add more detail, you can add an appropriate keyword
 ### Constraint Rules
 The UML allows you to use anything to describe constraints. The only rule is that you put them inside braces ({}). You can use natural language, a programming language, or the UML's formal Object Constraint Language
@@ -2152,7 +2272,9 @@ In use case�speak, the users are referred to as actors. An actor is a role tha
 
 Use cases are well known as an important part of the UML. However, the surprise is that in many ways, the definition of use cases in the UML is rather sparse. Nothing in the UML describes how you should capture the content of a use case. What the UML describes is a use case diagram, which shows how use cases relate to each other. But almost all the value of use cases lies in the content, and the diagram is of rather limited value.
 ### Content of a Use Case
+
 ![enter image description here](https://i.ibb.co/mFKvSNQ/09fig01.gif)
+
 You begin by picking one of the scenarios as the main success scenario. You start the body of the use case by writing the main success scenario as a sequence of numbered steps. You then take the other scenarios and write them as extensions, describing them in terms of variations on the main success scenario. Extensions can be successes�user achieves the goal, as in 3a�or failures, as in 6a.
 
 Each use case has a primary actor, which calls on the system to deliver a service. The primary actor is the actor with the goal the use case is trying to satisfy and is usually, but not always, the initiator of the use case. There may be other actors as well with which the system communicates while carrying out the use case. These are known as secondary actors.
@@ -2179,7 +2301,9 @@ As well as the steps in the scenarios, you can add some other common information
 When you're considering adding elements, be skeptical. It's better to do too little than too much. Also, work hard to keep the use case brief and easy to read. I've found that long, detailed use cases don't get read, which rather defeats the purpose.
 
 ### Use Case Diagrams
+
 ![enter image description here](https://i.ibb.co/zm929Jg/09fig02.gif)
+
 In your use case work, don't put too much effort into the diagram. Instead, concentrate on the textual content of the use cases.
 The best way to think of a use case diagram is that it's a graphical table of contents for the use case set. It's also similar to the context diagram used in structured methods, as it shows the system boundary and the interactions with the outside world. The use case diagram shows the actors, the use cases, and the relationships between them:
 
